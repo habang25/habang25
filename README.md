@@ -12,8 +12,8 @@ SW Developer
 
 * Samsung Electronic - Software Developer \(2021.03 ~ \)
 
-  Visual inspection equipment
-  Manufacturing equipment using computer vision
+  Visual inspection equipment\
+  Manufacturing equipment using computer vision\
 
   * computer vision\(openCV\), Deep learning\(pytorch\)
   * Maximize performance of inspection and minimize the takt time.
