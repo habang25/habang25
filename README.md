@@ -24,9 +24,10 @@ SW Developer, DL Engineer
   * Select HW which fit to the specifications.
   * Version control, Software configuration management. Release the program, gather the issue, trouble shooting.
 
-## Projects
+## Personal projects
 
-* * * 
+* Look forward to my projects please.
+
 ## Skills
 
 * computer vision : opencv
