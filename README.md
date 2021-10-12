@@ -2,7 +2,7 @@
 
 ## About Me
 
-SW Developer, DL Engineer
+SW Developer
 
 ## Education
 
